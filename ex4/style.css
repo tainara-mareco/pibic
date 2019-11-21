@@ -1,0 +1,41 @@
+.conteudo {
+    margin-top: 20px;
+}
+
+
+#inputA {
+    margin-right: 25px;
+}
+
+#inputB {
+    margin-right: 25px;
+}
+
+#processar {
+
+}
+
+#resultado {
+    border: solid 1px #5157fb;
+    padding: 10px;
+}
+
+.conteudoResultado {
+    margin-top: 30px;
+}
+
+#myCanvas {
+    width: 500px;
+    height: 500px;
+    border: solid 1px #5157fb;
+    display: block;
+    margin: 20px;
+}
+
+.doc {
+    margin-top: 80px;
+}
+
+.doc a {
+    display: block;
+}
